@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Doc_Doc1</string>
+
+    <string name="title_activity_contact__us">Contact_Us</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
